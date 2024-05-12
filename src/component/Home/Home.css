@@ -1,0 +1,15 @@
+.banner{
+    background-image:  url("https://img.freepik.com/photos-premium/vue-dessus-melange-restauration-rapide-hamburger-doner-sandwich-nuggets-poulet-riz-salade-legumes-batonnets-poulet-salade-cesar-mushroo_756748-50647.jpg?w=740");
+    background-size :cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100vh;
+
+}
+•cover{
+    width: 100%;
+    height: 90vh;
+    background-color:black;
+    opacity:0.4;
+
+}
